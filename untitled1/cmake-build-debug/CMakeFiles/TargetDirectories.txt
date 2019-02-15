@@ -1,0 +1,3 @@
+C:/Users/tucker.murphy/Downloads/CSC120_Week3V2-master/CSC120_Week3V2-master/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/tucker.murphy/Downloads/CSC120_Week3V2-master/CSC120_Week3V2-master/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tucker.murphy/Downloads/CSC120_Week3V2-master/CSC120_Week3V2-master/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

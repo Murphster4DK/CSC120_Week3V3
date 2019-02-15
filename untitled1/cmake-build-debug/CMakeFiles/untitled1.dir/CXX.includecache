@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tucker.murphy/Downloads/CSC120_Week3V2-master/CSC120_Week3V2-master/untitled1/Account.h
+string
+-
+
+C:/Users/tucker.murphy/Downloads/CSC120_Week3V2-master/CSC120_Week3V2-master/untitled1/main.cpp
+iostream
+-
+Account.h
+C:/Users/tucker.murphy/Downloads/CSC120_Week3V2-master/CSC120_Week3V2-master/untitled1/Account.h
+
